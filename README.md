@@ -1,12 +1,8 @@
 <div id="header" align="center">
     <img src="https://giphy.com/gifs/coding-zOvBKUUEERdNm" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+    <h1 align="center">Hola 👋, yo soy Matias Muñoz</h1>
+    <h3 align="center">Un desarrollador frontend Chileno</h3>
 </div>
--------
-<h1 align="center">Hola 👋, yo soy Matias Muñoz</h1>
-<h3 align="center">Un desarrollador frontend Chileno</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-mochi&label=Profile%20views&color=0e75b6&style=flat" alt="code-mochi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
