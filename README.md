@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47p9ylx1qmcib9lwkkhzo8r0n8jjrhxz2rx2csfpkq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" />
     <h1 align="center">Hola 👋, yo soy Matias Muñoz</h1>
-    <h3 align="center">Un desarrollador frontend Chileno</h3>
+    <h3 align="center">Programador Chileno 👨‍💻</h3>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
