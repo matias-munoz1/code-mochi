@@ -3,8 +3,6 @@
     <h1 align="center">Hola 👋, yo soy Matias Muñoz</h1>
     <h3 align="center">Un desarrollador frontend Chileno</h3>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-mochi&label=Profile%20views&color=0e75b6&style=flat" alt="code-mochi" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matias-andres-mu%c3%b1oz-soto-2aa9ab263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-andres-mu%c3%b1oz-soto-2aa9ab263" height="30" width="40" /></a>
