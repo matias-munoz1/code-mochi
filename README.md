@@ -8,7 +8,7 @@ Estudiando actualmente en [Instituto Profesional Inacap]
 ## Vida
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: [INACAP] Ingenieria Informatica '26-'28<br>
+:shipit: [INACAP] Ingeniería Informatica '26-'28<br>
 :shipit: [INACAP] Analista Programador '23-'25
 
 [INACAP]: https://portales.inacap.cl/
@@ -30,7 +30,7 @@ Estudiando actualmente en [Instituto Profesional Inacap]
 
 Mis intereses son:
 
-algoritmos, realidad aumentada/virtual (AR/VR), gráficos por computadora, estructuras de datos, aprendizaje automático (machine learning), cómputo paralelo, lenguajes de programación, diseño de software, desarrollo web.
+Algoritmos, realidad aumentada/virtual (AR/VR), gráficos por computadora, estructuras de datos, aprendizaje automático (machine learning), cómputo paralelo, lenguajes de programación, diseño de software, desarrollo web.
 
 ## Contacto
 <a href="mailto:mmunozs1996@gmail.com">
