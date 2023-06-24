@@ -1,15 +1,45 @@
-<div id="header" align="center">
-    <h1 align="center">Hola 👋, yo soy Matias Muñoz</h1>
-    <h3 align="center">Programador👨‍💻</h3>
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matias-andres-mu%c3%b1oz-soto-2aa9ab263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-andres-mu%c3%b1oz-soto-2aa9ab263" height="30" width="40" /></a>
-<a href="https://fb.com/maaaatiasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maaaatiasss" height="30" width="40" /></a>
-<a href="https://instagram.com/matimunoz.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matimunoz.s" height="30" width="40" /></a>
-</p>
+# Hola, yo soy Matias  :wave:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+Me gusta trabajar con javascript, React.  
+Estudiando actualmente en [Instituto Profesional Inacap]
 
+[Instituto Profesional Inacap]: https://portales.inacap.cl/
+
+## Vida
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+:shipit: [INACAP] Ingenieria Informatica '26-'28<br>
+:shipit: [INACAP] Analista Programador '23-'25
+
+[INACAP]: https://portales.inacap.cl/
+
+## Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+
+### Software
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+### Intereses
+
+Mis intereses son:
+
+algoritmos, realidad aumentada/virtual (AR/VR), gráficos por computadora, estructuras de datos, aprendizaje automático (machine learning), cómputo paralelo, lenguajes de programación, diseño de software, desarrollo web.
+
+## Contacto
+<a href="mailto:mmunozs1996@gmail.com">
+    <img height="32" align="left" alt="Mail" src="https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png" />
+</a>
+<a href="https://www.linkedin.com/in/matias-andres-mu%C3%B1oz-soto-2aa9ab263/">
+    <img height="32" align="left" alt="Linkedin" src="https://img.icons8.com/?size=512&id=13930&format=png" />
+</a> 
+<a href="https://www.facebook.com/Maaaatiasss/">
+    <img height="32" align="left" alt="Facebook" src="https://img.icons8.com/?size=512&id=uLWV5A9vXIPu&format=png" />
+</a> 
 
