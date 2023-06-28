@@ -1,6 +1,5 @@
 # Hola, yo soy Matias  :wave:
 
-Me gusta trabajar con javascript, React.  
 Estudiando actualmente en [Instituto Profesional Inacap]
 
 [Instituto Profesional Inacap]: https://portales.inacap.cl/
